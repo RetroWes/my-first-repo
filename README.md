@@ -1,4 +1,4 @@
-A repository for learning GitHub 👋 Hi, I’m Gaudeor Rudmin @Gaudeorvccs
+👋 Hi, I'm Wesley Morgan
 
 👀 I’m a programmer and an upcoming engineer interested in game development and all kinds of software projects.
 
