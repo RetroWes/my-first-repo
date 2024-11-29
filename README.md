@@ -1,8 +1,9 @@
-# my-first-repo
-A repository for learning GitHub.
-I like programming and building things.
-I program in Python, Java, C#, and C.
-![Screenshot 2023-10-12 231854](https://github.com/RetroWes/my-first-repo/assets/101622403/c6771fac-0d4d-435b-8589-d87c91e49810)
-![image](https://github.com/user-attachments/assets/67b95f0b-21b8-49a2-a68d-4fa9749b71ba)
+A repository for learning GitHub 👋 Hi, I’m Gaudeor Rudmin @Gaudeorvccs
 
-This is a change by Gaudeor to practice collaboration.
+👀 I’m a programmer and an upcoming engineer interested in game development and all kinds of software projects.
+
+🌱 I am proficient in several programming languages (Java, C#, C++, and Python to name a few).
+
+💞️ I’m looking to collaborate on interesting programming and engineering projects.
+
+📫 How to reach me: wlmorgan2001@gmail.com
